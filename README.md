@@ -4,7 +4,9 @@ This repository provides the implementation for our paper: "[_Rethinking Visual 
 
 ### 🧩 Method
 
-![VisionDrop](figures/VisionDrop.png)
+<p align="center">
+  <img src="figures/VisionDrop_poster_01.png" width="900">
+</p>
 
 ### 📦 Environment Setup
 
